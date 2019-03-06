@@ -1,0 +1,19 @@
+{
+  "name": "touch_node_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/millermjared/touch_node_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millermjared/touch_node_server/issues"
+  },
+  "homepage": "https://github.com/millermjared/touch_node_server"
+}
